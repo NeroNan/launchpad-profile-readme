@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# Nikhila K's README
 
-_Say hello to your community._
+_Hello Github!_
 
 
 <!-- 
@@ -20,42 +20,26 @@ _Say hello to your community._
 -->
 
 <details id=0 open>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welcome to my profile</h2></summary>
 
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
 
-**About your profile README**
 
-You can share information about yourself with the community on GitHub.com by creating a profile README. GitHub shows your profile README at the top of your profile page. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
-- An "About me" section that describes your work and interests
-- Contributions you're proud of, and context about those contributions
-- Guidance for getting help in communities where you're involved
+**A little about ME**
 
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
+I am Nikhila, a student of English Literature and Cultural Studies. I am interested in learning coding and data visualisation which will possibly be helpful in the future. I want to look at coding and make it a better tool for the humanities stream. I am total beginner in this field, yet I strive to work hard and get better one day at a time. 
+ 
 
 
 
 
 
 
-## Start Here
 
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+## Some Links for my easy access:
 
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+**Repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 <br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
+
 
 
 </details>
